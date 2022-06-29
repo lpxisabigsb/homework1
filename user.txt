@@ -1,0 +1,20 @@
+{
+    "auth": {
+        "identity": {
+            "methods": [
+                "password"
+            ],
+            "password": {
+                "user": {
+                    "id": "e1369a76cd62496ea754974dd6c9150b",
+                    "password": "nomoresecret"
+                }
+            }
+        },
+        "scope": {
+            "project": {
+                "id": "68c0480bc5714b9abb0ec1c8554950d0"
+            }
+        }
+    }
+}

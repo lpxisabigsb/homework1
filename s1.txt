@@ -1,0 +1,10 @@
+{
+    "server": {
+        "name": "s2",
+        "imageRef": "51192b7e-87d0-4a7a-b516-498ef10dd3bb",
+        "flavorRef": "1",
+        "networks" : [{
+            "uuid" : "39b0771b-0837-46cf-b305-5fec4a464201"
+        }]
+    }
+}
