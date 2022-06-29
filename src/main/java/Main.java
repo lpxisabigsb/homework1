@@ -6,7 +6,7 @@ Person p=new Person("张三","18");
         // 给p中的属性赋值
 p.talk();
         // 调用Person类中的talk()方法
-
+        System.out.println("your mother has been fucked by me");
         /********* end *********/
     }
 }
